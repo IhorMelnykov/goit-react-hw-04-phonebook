@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useLocalStorage } from "./hooks/Hooks";
+import { useLocalStorage } from "../hooks/Hooks";
 import { Form } from "./Form/Form";
 import { Filter } from "components/Filter/Filter";
 import { ContactsList } from "./ContactsList/ContactsList";
